@@ -86,10 +86,10 @@ Access the Swagger UI by navigating to:
 
 ### Step 5.1: Build the Interface
 
-Finally, we will create a graphical interface for our API using Streamlit.
+Finally, we will create a graphical interface for our API using Streamlit. After all this step the Chat With Cohere tab will be working 
 
 You can develop and customize the interface by writing a Streamlit script and then running it with:
 
   ```bash
-  streamlit run your_streamlit_script.py
+  streamlit run Home.py
   ```
