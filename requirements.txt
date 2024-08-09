@@ -1,0 +1,11 @@
+
+##First packages needed
+python-dotenv
+fastapi
+uvicorn[standard]
+requests
+streamlit
+
+##For Cohere part we will need that
+#cohere
+#

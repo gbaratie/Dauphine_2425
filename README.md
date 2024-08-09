@@ -30,13 +30,13 @@ You should see the name of your environment on the left of your terminal
 
 3. Install requirements 
     ```
-    pip install -r requirements_v1.txt
+    pip install -r requirements.txt
     ```
-    or
+
+4. Launch frontend
+
+Be sure to launch under your python environment
+You should see the name of your environment on the left of your terminal
+
     ```
-    pip install -r requirements_v2.py
-    ```
-    or
-    ```
-    pip install -r requirements_v3.py
-    ```
+    streamlit run main.py
