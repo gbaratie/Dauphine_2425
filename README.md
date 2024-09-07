@@ -1,4 +1,3 @@
-
 # TP Dauphine
 
 
@@ -67,3 +66,10 @@ This command will start the Streamlit server, and a new tab will open in your we
 ---
 
 By following these steps, you will have the project set up and running locally on your machine. Happy coding!
+
+
+## Special Thanks
+
+A special thanks to William Horeau for his work on a project that served as the foundation for my initial commit
+
+
