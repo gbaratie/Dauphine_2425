@@ -70,6 +70,6 @@ By following these steps, you will have the project set up and running locally o
 
 ## Special Thanks
 
-A special thanks to William Horeau for his work on a project that served as the foundation for my initial commit
+A special thanks to William Hoareau for his work on a project that served as the foundation for my initial commit
 
 
