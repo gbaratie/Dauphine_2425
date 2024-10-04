@@ -20,6 +20,13 @@ st.markdown("Try out the slider below to see how Streamlit can handle user input
 x = st.slider('Select a number', min_value=1, max_value=100, value=25)
 st.write(f"The square of {x} is {x * x}")
 
+# Example: Button
+st.button("Reset", type="primary")
+if st.button("Say hello"):
+    st.write("Why hello there")
+else:
+    st.write("Goodbye")
+
 # Example: Text Input
 st.subheader("💻 Text Input")
 st.markdown("Enter your name to see how Streamlit can handle and display user input.")
@@ -68,7 +75,6 @@ with st.sidebar:
         This sidebar contains links to additional resources:
         
         - [Streamlit Documentation](https://docs.streamlit.io)
-        - [Cohere API](https://docs.cohere.ai)
         - [Langchain Documentation](https://langchain.readthedocs.io)
         - [FastAPI Documentation](https://fastapi.tiangolo.com)
         

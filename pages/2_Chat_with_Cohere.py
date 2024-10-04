@@ -10,10 +10,13 @@ with st.sidebar:
     st.markdown("""
                 This page demonstrates how to create a memory-enabled chatbot using Cohere, showcasing
                 the integration of advanced NLP capabilities in a user-friendly interface. Explore the 
-                examples and learn how to build your own intelligent applications.    
+                examples and learn how to build your own intelligent applications.
+
+                Please follow the instructions provided [here](https://github.com/gbaratie/Dauphine_2425/tree/main/Cohere)     
                 """)
     st.header("📚 Learn More")
-    st.markdown("[Cohere API](https://docs.cohere.com/reference/chat)")
+    st.markdown("""Explore the examples and learn how to build your own intelligent applications.
+                [Cohere API](https://docs.cohere.com/reference/chat)""")
             
 st.markdown(
         """
@@ -22,7 +25,7 @@ st.markdown(
         )
 
 
-
+#fastAPI API created by 
 api_url="http://127.0.0.1:8000/chat"
 
 
