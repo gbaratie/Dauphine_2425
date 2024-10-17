@@ -41,6 +41,12 @@ Activating your virtual environment ensures that the dependencies you install wi
 source {name_of_your_venv}/bin/activate
 ```
 
+Windows:
+
+```bash
+{name_of_your_venv}\Scripts\activate
+```
+
 You should see the name of your environment on the left of your terminal, indicating that it is active.
 
 ### Step 3: Install the Required Dependencies
