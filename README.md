@@ -64,7 +64,7 @@ This will install all the necessary packages to run the project.
 Ensure you are working within your activated Python environment to avoid issues. Launch the frontend of the project using Streamlit:
 
 ```bash
-streamlit run main.py
+streamlit run Home.py
 ```
 
 This command will start the Streamlit server, and a new tab will open in your web browser displaying the application.
