@@ -8,5 +8,11 @@ streamlit
 
 ##For Cohere part we will need that
 #cohere
-#fastAPI
-#
+
+##For RAG part you will need to add that 
+langchain
+pydantic
+langchain_cohere
+langchain_core
+langchain_community
+langchain_chroma
