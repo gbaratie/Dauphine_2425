@@ -10,9 +10,9 @@ streamlit
 #cohere
 
 ##For RAG part you will need to add that 
-langchain
-pydantic
-langchain_cohere
-langchain_core
-langchain_community
-langchain_chroma
+#langchain
+#pydantic
+#langchain_cohere
+#langchain_core
+#langchain_community
+#langchain_chroma
