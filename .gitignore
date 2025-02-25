@@ -163,3 +163,4 @@ cython_debug/
 bin/
 pyvenv.cfg
 Dauphine_2425/
+.DS_Store
