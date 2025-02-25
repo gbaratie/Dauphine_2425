@@ -1,7 +1,7 @@
 ## This page is the home page of your front application
 
 
-#Import Streamlit packages
+# Import Streamlit packages
 import streamlit as st
 
 # Page Title
